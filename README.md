@@ -17,7 +17,3 @@ Software Development Bachelor's Student passionate about coding and innovation.
   <p align="center" style="margin-top: 100px;">Software Development student aiming to design efficient, scalable systems. On a journey to learn, create, and contribute to the tech community.</p>
 </div>
 
-<p align="center"><a href="https://twitter.com/terabyte_17">
-  <a href="www.linkedin.com/in/noah-haile-isayas-54b138294">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-</p>
