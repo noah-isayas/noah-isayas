@@ -14,6 +14,6 @@ Software Development Bachelor's Student passionate about coding and innovation.
 </p>
 
 <div align="center">
-  <p align="center" style="margin-top: 100px;">Software Development student aiming to design efficient, scalable systems. On a journey to learn, create, and contribute to the tech community.</p>
+  <p align="center" style="margin-top: 100px;"></p>
 </div>
 
