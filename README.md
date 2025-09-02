@@ -1,6 +1,6 @@
 <h1 align="center">Noah Isayas</h1>
 <h4 align="center">
-Software Development Bachelor's Student passionate about coding and innovation.
+.
 </h4>
 <hr>
 <p align="center">
