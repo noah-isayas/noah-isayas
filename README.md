@@ -4,10 +4,13 @@
 </h4>
 <hr>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23FF6F00.svg?&style=for-the-badge&logo=azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?&style=for-the-badge&logo=flux&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?&style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flux-%235468FF.svg?&style=for-the-badge&logo=flux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traefik-%23E23237.svg?&style=for-the-badge&logo=traefikproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kyverno-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 <div align="center">
