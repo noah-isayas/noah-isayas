@@ -1,7 +1,4 @@
 <h1 align="center">Noah Isayas</h1>
-<h4 align="center">
-.
-</h4>
 <hr>
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -12,8 +9,7 @@
   <img src="https://img.shields.io/badge/Kyverno-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-
-<div align="center">
-  <p align="center" style="margin-top: 100px;"></p>
-</div>
-
+<p align="center">
+Most of my work is done at <a href="https://github.com/isayas-2s">2S</a>, 
+where I work on platform engineering.
+</p>
